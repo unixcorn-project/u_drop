@@ -137,7 +137,7 @@ input[type="submit"]:focus {
 }
 
 #upload fieldset {
-  background: url(upload.svg) no-repeat center;
+  background: url(upload.png) no-repeat center;
   -webkit-transition: all 0.5s ease;
      -moz-transition: all 0.5s ease;
       -ms-transition: all 0.5s ease;
@@ -223,12 +223,12 @@ input[type="submit"]:focus {
 .info,
 .error {
   text-align: center;
-  color: #795548;
+  color: #000;
   padding-left: 3em;
 }
 
 #upload_finished > p:nth-child(1) {
-  color: #0D9CB2;
+  color: #000;
   font-weight: bold;
 }
 
