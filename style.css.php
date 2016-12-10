@@ -24,7 +24,7 @@
  * The content is dynamically generated for easier handling.
  */
 
-$dark = '#8B4513';
+$dark = '#000';
 
 header('Content-type: text/css');
 
