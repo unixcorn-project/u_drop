@@ -78,7 +78,7 @@ fieldset {
   margin: 0 auto;
   border-radius: 8px;
   width: 20em;
-  border: 7px dashed #222;
+  border: 7px dashed #333;
   min-height: 15em;
   min-width: 30em;
   position: relative;
@@ -87,7 +87,7 @@ fieldset {
 legend {
   padding: 0.5em 1em;
   background: #FFF;
-  color: #333;
+  color: #3ec4ee;
   font-size: 1.2em;
   display: block;
   min-width: 8em;
@@ -95,7 +95,7 @@ legend {
 }
 
 table a {
-  color: #000;
+  color: #3ec4ee;
 }
 
 table a:hover,
@@ -146,7 +146,7 @@ input[type="submit"]:focus {
 }
 
 #upload fieldset:hover {
-  border-color: #000;
+  border-color: #3ec4ee;
 }
 
 #upload > form {
