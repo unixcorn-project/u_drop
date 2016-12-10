@@ -31,8 +31,9 @@ header('Content-type: text/css');
 ?>
 
 /* ==========================================================================
-   Elegantish Template - JordyV - http://jordyvalentine.com/
-   CSS Seperated from PHP
+   u_drop Template - Unixcorn - https://unixcorn.org
+   based on Elegantish Template by JordyV - http://jordyvalentine.com
+   CSS separated from PHP
    This is a preference of the template developer, feel free to move it back.
    ========================================================================== */
-@import url(elegantish.css);
+@import url(u_drop.css);

@@ -1,7 +1,7 @@
 /* ==========================================================================
-   Elegantish Template for Jirafeau V1.1
-   Based on the standard Courgette template, re-styled by JordyV
-   JordyValentine.Com
+   u_drop Template for Jirafeau v1.1
+   Based on the Elegantish template by JordyV
+   Made by and for Unixcorn
    ---
 
    Css moved from 'style.css.php', This makes editing things a little nicer, because the Atom editor's sytax highlighting works
@@ -10,7 +10,7 @@
    Images moved to a seperate 'img' directory, this is also personal preference.
    ---
 
-   Provided under the same licence as Jirafeau, as this is originally the 'Courgette' stylesheet, just edited.
+   Provided under the same licence as Jirafeau, as this is originally the 'Elegantish' stylesheet, just edited.
    ========================================================================== */
 
 
@@ -52,8 +52,8 @@ h1 a {
   background: url(logo.png) no-repeat;
   background-size: 100% 100%;
   text-indent: -9999px;
-  width: 194px;
-  height: 185px;
+  width: 200px;
+  height: 200px;
   margin: 1em auto;
   position: relative;
   left: 0.4em;
