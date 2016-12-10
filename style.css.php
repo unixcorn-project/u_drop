@@ -87,7 +87,7 @@ fieldset {
 legend {
   padding: 0.5em 1em;
   background: #FFF;
-  color: #3ec4ee;
+  color: #000;
   font-size: 1.2em;
   display: block;
   min-width: 8em;
