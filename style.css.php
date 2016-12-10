@@ -49,7 +49,7 @@ header('Content-type: text/css');
    ========================================================================== */
 
 body {
-  background: #efebe9;
+  background: #FFF;
   font-family: Arial, sans-serif;
   margin: 0;
   line-height: 1.5;
@@ -78,7 +78,7 @@ fieldset {
   margin: 0 auto;
   border-radius: 8px;
   width: 20em;
-  border: 7px dashed #bcaaa4;
+  border: 7px dashed #222;
   min-height: 15em;
   min-width: 30em;
   position: relative;
@@ -86,8 +86,8 @@ fieldset {
 
 legend {
   padding: 0.5em 1em;
-  background: #efebe9;
-  color: #888;
+  background: #FFF;
+  color: #333;
   font-size: 1.2em;
   display: block;
   min-width: 8em;
@@ -172,7 +172,7 @@ input[type="submit"]:focus {
 #copyright {
   text-align: center;
   font-size: 0.8em;
-  color: #000
+  color: #333;
   padding-left: 3em;
 }
 
