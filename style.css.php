@@ -69,7 +69,7 @@ h1 a {
 
 h2 {
   text-align: center;
-  color: #795548;
+  color: #000;
 }
 
 fieldset {
@@ -87,7 +87,7 @@ fieldset {
 legend {
   padding: 0.5em 1em;
   background: #efebe9;
-  color: #663D1C;
+  color: #888;
   font-size: 1.2em;
   display: block;
   min-width: 8em;
@@ -146,7 +146,7 @@ input[type="submit"]:focus {
 }
 
 #upload fieldset:hover {
-  border-color: #663D1C;
+  border-color: #000;
 }
 
 #upload > form {
@@ -172,12 +172,12 @@ input[type="submit"]:focus {
 #copyright {
   text-align: center;
   font-size: 0.8em;
-  color: #795548;
+  color: #000
   padding-left: 3em;
 }
 
 #copyright a {
-  color: #795548;
+  color: #000;
   text-decoration: none;
 }
 
@@ -238,13 +238,13 @@ input[type="submit"]:focus {
 
 #upload_finished a {
   text-decoration: none;
-  color: #795548;
+  color: #000;
 }
 
 #uploading a {
   font-weight: bold;
   text-decoration: none;
-  color: #795548;
+  color: #000;
 }
 
 #uploaded_percentage {
@@ -278,7 +278,7 @@ input[type="submit"]:focus {
 
 textarea[readonly="readonly"] {
   border: 0;
-  color: #795548;
+  color: #000;
   font-family: Arial, sans-serif;
   background: none;
   margin: auto;
@@ -288,7 +288,7 @@ textarea[readonly="readonly"] {
 textarea[readonly="readonly"] + p,
 textarea[readonly="readonly"] + p + p {
   text-align: center;
-  color: #795548;
+  color: #000;
 }
 
 textarea[readonly="readonly"] + p a,
